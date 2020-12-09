@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <table name="com.cykj.bean.TestTable">
+            <property name="userName" column="userName" order="1"/>
+            <property name="possword" column="possword" order="2"/>
+    </table>
+</root>
